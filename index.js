@@ -12,3 +12,10 @@ function multiplication(a,b){
 }
 
 multiplication()
+
+
+function subtact (a,b){
+    if(a>b) return "";
+    return  a-b;
+}
+subtact(3,2)
