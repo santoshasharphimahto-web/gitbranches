@@ -17,4 +17,4 @@ multiplication()
 function subtact (a,b){
     return  a-b;
 }
-subtact()
+subtact(3,2)
